@@ -369,15 +369,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-## 👤 Author
-
-**Ganes** - Data Science & ML Engineering
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [Your GitHub Profile]
-- Email: [Your Email]
-
----
-
 ## 📞 Support
 
 For questions or issues:
